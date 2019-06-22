@@ -1,4 +1,4 @@
-# upload-test
+# vuetify-uploader
 
 ## Project setup
 ```
